@@ -1,2 +1,5 @@
 # hacker-rank-cert-js-i
-Hackerrank javascript intermediate certificate 
+## Hackerrank javascript intermediate certificate 
+
+> Activity List
+
